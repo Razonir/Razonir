@@ -63,7 +63,7 @@ Team player.<br/>
              <img align="center" src="https://github-readme-stats.vercel.app/api?username=razonir&&show_icons=true&title_color=ffffff&icon_color=00ff00&text_color=ffffff&bg_color=151515" /></p>
         </td>
         <td>
-             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razonir&show_icons=true&title_color=ffffff&icon_color=808080&text_color=808080&bg_color=0D1117&locale=en&layout=compact&langs_count=8&border_color=0D1117" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
         </td>
     </tr>
 </table>
