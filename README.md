@@ -59,12 +59,8 @@ Team player.<br/>
 
  <table style="width:100%" align="center">
     <tr>
-        <td>
-             <img align="center" src="https://github-readme-stats.vercel.app/api?username=razonir&&show_icons=true&title_color=ffffff&icon_color=00ff00&text_color=ffffff&bg_color=151515" /></p>
-        </td>
-        <td>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-        </td>
+
     </tr>
 </table>
 <p align="center">
