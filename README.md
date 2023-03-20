@@ -3,7 +3,7 @@
 🎓 Education:
 - B.sc Computer Science <a href="https://www.openu.ac.il/">The Open University Of Israel.</a>
 
-👀 I am interested in Full Stack <br/>
+👀 I am a Full Stack developer <br/>
 🧠 I like to discover new technologies and work for projects which have scope for self learning and development. <br/>
 💪🏽 Excellent self learning skills.<br/>
 🧩 Have excellent technical and communication skills.<br/>
