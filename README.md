@@ -56,16 +56,6 @@ Team player.<br/>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
- <table style="width:100%" align="center">
-    <tr>
-        <td>
-             <img align="center" src="https://github-readme-stats.vercel.app/api?username=razonir&&show_icons=true&title_color=ffffff&icon_color=00ff00&text_color=ffffff&bg_color=151515" /></p>
-        </td>
-        <td>
-             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razonir&show_icons=true&title_color=ffffff&icon_color=808080&text_color=808080&bg_color=0D1117&locale=en&layout=compact&langs_count=8&border_color=0D1117" />
-        </td>
-    </tr>
-</table>
 <p align="center">
                                                                                                                                                                                                                        
 <p align="center"> 
